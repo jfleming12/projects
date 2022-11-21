@@ -1,0 +1,41 @@
+INSERT INTO company (id, companyname, ticker, mc, pricestock, numstock) VALUES (
+    1,
+    'Apple',
+    'APL',
+    1000000.0,
+    100.0,
+    10000
+),
+(
+    2,
+    'Banana',
+    'BNA',
+    2000000.0,
+    200.0,
+    10000
+),
+(
+    3,
+    'Orange',
+    'ORNG',
+    10000000.0,
+    1000.0,
+    10000
+),
+(
+    4,
+    'Lemon',
+    'LMN',
+    20000000.0,
+    2000.0,
+    10000
+),
+(
+    5,
+    'Grape',
+    'GRP',
+    5000000.0,
+    1000.0,
+    5000
+);
+
