@@ -1,0 +1,50 @@
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+  }
+
+.rtable {  
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rhead {
+    text-align: center;
+    margin-left: 50px ;  
+    background: #00adee;  
+    font-size: 25px;  
+    vertical-align: top;  
+    color: #1D4A5A;  
+    font-weight: normal;  
+       
+}  
+
+.rbody {  
+    text-align: center;
+    padding: 0px;  
+    font-size: 14px;  
+
+}  
+
+.searchbar {
+    display: flex;
+    justify-content: center;
+    padding: 5px;  
+    margin-bottom: 20px;
+}
+
+.searchtext {
+    padding: 10px;  
+
+}
+
+.purchase {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+h2 {
+    text-align: center;
+}
